@@ -1,0 +1,6 @@
+recency_band,customers,response_rate_pct
+1. 0-15 days,340,30.0
+2. 16-30 days,323,18.3
+3. 31-60 days,601,14.1
+4. 61-90 days,611,9.3
+5. over 90 days,177,5.1

@@ -1,0 +1,4 @@
+segment_id,segment_name,customers,pct_customers,avg_income,avg_age,avg_children,avg_spend,pct_of_total_spend,response_rate_pct
+0,"Segment 0 - Premium, few kids",604,29.4,74973.0,46.4,0.25,1257.6,61.0,25.0
+1,"Segment 1 - Mid-range, parents",617,30.1,55643.0,48.5,1.28,683.9,33.9,14.1
+2,"Segment 2 - Budget, parents",831,40.5,32730.0,41.7,1.23,76.5,5.1,8.9

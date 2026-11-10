@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Data: do not redistribute the Kaggle dataset or derived copies of it.
+# Re-create everything with `python -m src.download_data` + `python -m src.run_pipeline`.
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Trained model artefacts (re-created by the pipeline)
+models/*
+!models/.gitkeep
